@@ -15,7 +15,7 @@
 		<java.version>12</java.version>
 		<javafx.version>13</javafx.version>
 		<maven.compiler.plugin>3.1</maven.compiler.plugin>
-		<hibernate.version>5.4.12.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<h2database.version>1.4.200</h2database.version>
 		<junit.version>5.3.1</junit.version>
 
